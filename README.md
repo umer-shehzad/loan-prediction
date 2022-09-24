@@ -15,5 +15,8 @@ Predict that the Loan is given to the customer or not based on different variabl
 - Logistic Regression - <b>82.92%</b>
 - Support Vector Machine - <b>73.17%</b>
 
+## Requirement
+- To launch <b>laon-prediction.ipynb</b>, one should install <b>Jupyter</b> in the system.
+
 ## Contact me if any query
 <a href="mailto:umerarshad369@gmail.com">Gmail<a/><br>
